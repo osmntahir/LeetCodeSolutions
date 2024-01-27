@@ -48,6 +48,7 @@ class Solution {
         // Check if the linked list is empty
         if (head == null) {
             return null;
+
         }
 
         ListNode prev = null;

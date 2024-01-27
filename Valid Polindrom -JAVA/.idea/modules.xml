@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeSolutions.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid Polindrom -JAVA.iml" filepath="$PROJECT_DIR$/Valid Polindrom -JAVA.iml" />
     </modules>
   </component>
 </project>
